@@ -1,0 +1,14 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.box-shadow{
+    width: 170px;
+    margin: 40px auto;
+    background-color: rosybrown;
+    border: 3px solid black;
+    box-shadow: 12px 13px 15px rgb(236, 13, 13);
+    border-radius: 18px;
+}
